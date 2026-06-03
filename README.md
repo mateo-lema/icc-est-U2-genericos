@@ -11,7 +11,8 @@
 
 
 **Fecha:** [miercoloes 3 de junio]
-**Descripción:** En esta práctica se implementaron las clases genéricas Caja<T> y Par<K, V> dentro del paquete models. La clase Caja<T> permite almacenar y obtener un dato de cualquier tipo, mientras que la clase Par<K, V> permite representar una relación entre una clave y un valor. En la captura se muestra la ejecución del programa en consola con diferentes tipos de datos.
+**Descripción:** En esta práctica se crearon las clases genéricas Caja<T> y Par<K, V> dentro del paquete models. La clase Caja<T> sirve para guardar y recuperar un dato de cualquier tipo, mientras que la clase Par<K, V> permite relacionar una clave con un valor. En la imagen se puede observar la ejecución del programa en consola utilizando tres tipos de datos diferentes.
+
 
 ## App implementación codigo
 ![alt text](src/assets/01-captura-salida-consola.png)
